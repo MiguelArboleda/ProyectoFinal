@@ -1,0 +1,112 @@
+ @media only screen and (max-width: 768px) and (min-width: 320px){
+     .navbar{
+        padding-bottom:25px;
+        .navegacion{
+            justify-content: right;
+            .objeto{
+                margin-left:0;
+                padding-right:2px ;
+                padding-left:15px ;
+                .lista{
+                    font-size:18px;
+                }
+            }
+        }
+     }
+     .navbar-brand{
+         font-size: 30px;
+         margin-left:0;
+         padding-bottom:8px ;
+     }
+     .main .div1 .absolute .titulo {
+         font-size: 34px;
+         margin-bottom: 20px;
+     }
+     .main .div1 .absolute .parrafo {
+         font-size: 20px;
+     }
+     .titulo2{
+         font-size: 23px;
+     }
+     .parrafo2{
+         font-size: 18px;
+     }
+     .titulo5{
+         font-size: 18px;
+         margin-left: 24px;
+     }
+     .listaNormal{
+         font-size: 15px;
+     }
+     .listaNumerada{
+         font-size: 15px;
+     }
+     .footer .ordenfooter{
+         font-size: 15px;
+     }
+     .footer .fin{
+         font-size: 17px;
+     } 
+     .main .div1 .absolute .titulo8{
+         font-size: 33px;
+         margin-bottom: 13px;
+     }
+     .parrafo8{
+         font-size: 17px;
+     }
+     .imagenes{
+         margin-left:50px;
+         margin-bottom: 13px;
+     }
+     .titulo6{
+         font-size: 21px;
+         margin-left: 11px;
+     }
+     .parrafo6{
+         font-size: 17px;
+         margin-left: 23px;
+     }
+     .lista3{
+         margin-left: 0;
+     }
+     .imagen1{
+        height:295px;
+        width:285px;
+        margin-left: 21px;
+        margin-bottom: 12px;
+    }
+    
+    .imagen2{
+        height:293px;
+        width: 283px;
+        margin-left:19px;
+        margin-bottom: 12px;
+    }
+    
+    .imagen3{
+        height:305px;
+        width: 248px;
+        margin-left: 35px;
+        margin-bottom: 12px;
+    
+    }
+    .imagen4{
+        height:294px;
+        width:294px;
+        margin-left:18px;
+        margin-bottom: 12px;
+    }
+    .titulo2{
+        margin-left: 7%;
+        font-size: 23px;
+    }
+    .main1 .titulo3 {
+        font-size: 28px;
+    }
+    .main1 .parrafo3{
+        font-size: 17px;
+    }
+    .textoForm{
+        font-size: 14px;
+    }
+ }

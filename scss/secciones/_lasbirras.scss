@@ -1,0 +1,49 @@
+.titulo6{
+    color: $color-titulos;
+    font-size: 25px;
+    margin-left: 40px;
+    text-align: center;
+    font-family:$cursive;
+
+}
+.parrafo6{
+    color: $color-parrafos;
+    font-size: 23px;
+    display: block;
+    margin-left: 40px;
+    text-align: justify;
+}
+.imagenes{
+    height:350px;
+    width: 230px;
+    margin-left: 112px;
+}
+.lista3{
+    list-style: none;
+    margin-left: 10px;
+    text-align: center;
+    .item3{
+        color: #0bffff;
+        background-color: $color-gradiente2;
+        font-size: 18px;
+        
+       
+    }
+}
+.separacion{
+  margin-top: 40px;
+  border-bottom: 2px;
+  border: #0bffff;
+}
+.main .div1 .absolute .titulo8{
+    font-size: 60px;
+    font-weight: 900;
+    font-family: $cursive;
+    z-index: 100;
+    color: $color-titulos;
+    margin-bottom: 30px;
+}
+.parrafo8{
+    font-size:35px;
+    color: $color-parrafos;
+}

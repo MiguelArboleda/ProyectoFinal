@@ -1,0 +1,26 @@
+.footer{
+    background-image: linear-gradient(to top,$color-gradiente1, $color-gradiente2);
+    .ordenfooter{
+        list-style: none;
+        font-size: 20px;
+        font-style: italic;
+        .nav-link:hover {
+            color: #9ed4fa;
+        }
+        .footer1{
+            text-align: right;
+            text-decoration: none;
+            color: #68edff;
+        }
+        .footer2{
+            text-align: left;
+            text-decoration: none;
+            color: #68edff;
+        }
+    }
+    .fin{
+        color: #68edff;
+        text-align: center;
+        font-size: 20px;
+    }
+}
